@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ds">Distributed Systems\n2015-2016</string>
+    <string name="imgDesc">Android ImageView used in the center of launch activity</string>
+    <string name="map_reduce">Map-Reduce</string>
+    <string name="enter">Enter</string>
+
+    <string name="mw_server">M-W Server</string>
+    <string name="rw_server">R-W Server</string>
+    <string name="next">Next</string>
+    <string name="ip">" IP Address "</string>
+    <string name="port">" Port "</string>
+    <string name="mwNumber">#%1$d</string>
+
+    <string name="coords">Coordinates</string>
+    <string name="start">START</string>
+    <string name="minLatitude">" Min Latitude "</string>
+    <string name="maxLatitude">" Max Latitude "</string>
+    <string name="minLongitude">" Min Longitude "</string>
+    <string name="maxLongitude">" Max Longitude "</string>
+    <string name="minDT">" Min DT (Optional) "</string>
+    <string name="maxDT">" Max DT (Optional) "</string>
+
+    <string name="app_name">Map-Reduce</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_launch">MapReduceProcess</string>
+    <string name="title_activity_connection_info">ConnectionInfoActivity</string>
+    <string name="title_activity_coordinates">CoordinatesActivity</string>
+
+</resources>
